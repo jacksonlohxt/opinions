@@ -2,7 +2,7 @@
 
 *Durable beliefs and evolving views — extracted from my writing.*
 
-> Last updated: 2026-06-28
+> Last updated: 2026-06-29
 > Source: Apple Notes
 
 ---
@@ -26,7 +26,13 @@
 
 ### On Community & Belonging
 - **Society lacks low-barrier spaces for adults to connect after age 25-30.** Friendships thin out, work dominates, and loneliness creeps in. People need community spaces beyond school and work. [Note #85, 2026-06-28]
-- **A podcast channel can be more than content — it can be a platform for belonging.** Conversations that spark dialogue and build community give people the feeling of inclusion even when daily life grows isolating. [Note #85, 2026-06-28]
+- **A podcast channel can be more than content — it can be a platform for belonging.** Conversations that spark dialogue and build community give people the feeling of inclusion even when daily life grows isolating. A platform combining content creation with community connection could address the social inclusion gap for adults. [Notes #85, #89, 2026-06-29]
+- **Existing community service structures exist but don't solve the belonging problem.** Donations, CCA initiatives, and volunteer activities provide service but not necessarily genuine social connection for isolated adults. [Note #91, 2026-06-29]
+
+### On Human Psychology & Design
+- **Introversion/extroversion can be reframed as conscious vs subconscious processing time.** Extroverts spend more time in the automatic/subconscious layer; introverts spend more time in the active conscious layer. This is detectable through body language — when someone shifts into conscious thinking mode, it's visible. Conscious processing is not weakness — it may be the higher-level thinking mode. [Note #6, 2026-06-29]
+- **Every person operates with two selves:** (1) the auto-person (subconscious, automatic, the "lazy" one who gets rejected socially), and (2) the behind-the-scenes conscious thinker whose job is to make the auto-person's outputs socially acceptable and useful. Good tools serve the conscious thinker by offloading organizational overhead. [Note #6, 2026-06-29]
+- **The core bottleneck in thinking is not idea generation — it's organization.** If you can reduce the energy spent on categorizing and structuring, the conscious mind can focus fully on creating. This is the design thesis behind a second brain tool. [Note #6, 2026-06-29]
 
 ### On Technology & Human Nature
 - **Technology should adapt to how humans naturally think, not the other way around.** Rather than humans learning to communicate with computers (learning coding languages), we should remove that step — let humans type in natural language and have the system understand them at the human layer. [Note #8, 2026-06-28]
