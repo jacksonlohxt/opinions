@@ -30,3 +30,8 @@
 ## Refinements
 
 *No refinements yet.*
+
+## See Also
+
+- [psychology.md](psychology.md) — Dota-to-life as a recurring cognitive framework
+- [community.md](community.md) — Low-barrier spaces for belonging, connected via reducing-friction theme

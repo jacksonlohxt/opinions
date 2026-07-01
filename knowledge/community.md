@@ -21,3 +21,7 @@
 ## Refinements
 
 *No refinements yet.*
+
+## See Also
+
+- [tech-philosophy.md](tech-philosophy.md) — "Reducing friction" recurring theme connecting community to product design

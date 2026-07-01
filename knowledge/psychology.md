@@ -24,3 +24,7 @@
 ## Refinements
 
 *No refinements yet.*
+
+## See Also
+
+- [tech-philosophy.md](tech-philosophy.md) — Dota-related beliefs (MOBA=coding, Pos5 specialization) that feed into the recurring theme above
