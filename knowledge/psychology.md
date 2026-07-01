@@ -19,11 +19,11 @@
 
 ## Recurring Themes
 
-- **The Dota-to-life metaphor.** Across multiple notes, MOBA games appear as a lens for understanding life: roles (pos 1-5), resource optimization, formation, covering each other's weaknesses, the "dark forest" of uncertainty. This isn't just a gaming reference — it's a recurring framework for thinking about teams, strategy, and individual roles. [Notes #9, #12, 2026-06-29]
+- **The Dota-to-life metaphor.** Across multiple notes, MOBA games appear as a lens for understanding life: roles (pos 1-5), resource optimization, formation, covering each other's weaknesses, the "dark forest" of uncertainty, drafting phase to analyze and select team composition based on the problem. This isn't just a gaming reference — it's a recurring framework for thinking about teams, strategy, and individual roles. [Notes #5, #9, #12, 2026-07-01]
 
 ## Refinements
 
-*No refinements yet.*
+- **The organization bottleneck has a deeper layer — explicit interfaces between process steps.** It's not enough to just categorize outputs. Every step in a creative/thinking process needs its own interface layer, and the boundary between steps needs to be defined for the system to be truly useful. The Grey app should define interfaces between steps, not just organize within them. [Note #5, 2026-07-01]
 
 ## See Also
 
