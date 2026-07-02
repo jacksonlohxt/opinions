@@ -1,8 +1,16 @@
 # Human Psychology & Self
 
-*Durable beliefs and evolving views — extracted from my writing.*
-> Last updated: 2026-06-29
-> Source: Apple Notes
+**Current synthesis:**
+- Introversion/extroversion is best understood as conscious vs subconscious processing time — extroverts spend more time in automatic mode, introverts spend more in active conscious thinking. The body reveals which mode you're in.
+- Every person operates with two selves: the auto-person (subconscious, social-facing) and the conscious thinker (behind-the-scenes, organizing). Good tools serve the conscious thinker by offloading organizational overhead.
+- The core bottleneck in thinking is not idea generation — it's organization. Free brain energy for creation by reducing categorization overhead.
+- Identity is situational and fluid — different contexts call for different selves. It's okay to admit limits in conversation.
+- Thoughts associate across time and space — a place or time can trigger unrelated memories through dimensional association.
+- The Dota-to-life metaphor extends here too: roles, resource optimization, formation as a framework for self-understanding.
+
+> Last updated: 2026-07-02 | Beliefs: 5 strong, 1 medium, 0 weak | Last reinforced: 2026-07-01
+
+---
 
 ## Durable Beliefs
 

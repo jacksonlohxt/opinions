@@ -1,8 +1,15 @@
 # Writing & Communication
 
-*Durable beliefs and evolving views — extracted from my writing.*
-> Last updated: 2026-06-29
-> Source: Apple Notes
+**Current synthesis:**
+- The Pyramid Principle is the foundation — when lost, return to it to find your structure.
+- Writing needs evidence, not just personal POV — arguments backed from both sides persuade better than one-sided advocacy.
+- Be specific, not general — concrete examples transport the reader and make writing stand out.
+- Communication is flow, not memorization — natural expression beats pre-planned scripts; energy for conversation is finite and cycles.
+- Reader empathy matters — hyperlinks, clear structure, and showing effort signal that you sat in their position.
+
+> Last updated: 2026-07-02 | Beliefs: 6 strong, 1 medium, 0 weak | Last reinforced: 2026-06-29
+
+---
 
 ## Durable Beliefs
 

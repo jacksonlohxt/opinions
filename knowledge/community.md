@@ -1,8 +1,14 @@
 # Community & Belonging
 
-*Durable beliefs and evolving views — extracted from my writing.*
-> Last updated: 2026-06-29
-> Source: Apple Notes
+**Current synthesis:**
+- Society lacks low-barrier spaces for adults to connect after 25-30 — school-era friendships thin out and work relationships are often superficial.
+- A podcast can be more than content — it can be a platform for belonging, sparking dialogue and building community.
+- Existing structures (donations, CCA, volunteer activities) provide service but don't solve the belonging problem.
+- The core insight: people need community as a platform, not just content consumption.
+
+> Last updated: 2026-07-02 | Beliefs: 3 medium, 0 strong, 0 weak | Last reinforced: 2026-06-29
+
+---
 
 ## Durable Beliefs
 

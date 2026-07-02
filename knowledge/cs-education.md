@@ -1,8 +1,15 @@
 # CS Education
 
-*Durable beliefs and evolving views — extracted from my writing.*
-> Last updated: 2026-06-29
-> Source: Apple Notes
+**Current synthesis:**
+- Practical coding beats theory-first — learn tools and debugging before CS theory; you'll forget theory you don't use.
+- C is the right first language (via Harvard CS50x), not Python — it forces memory management understanding early.
+- AI tools (ChatGPT) are worth paying for as personal tutors, not as code-generators that do your work.
+- Debugging tool fluency (GDB, IDE breakpoints, Valgrind) is undervalued in formal CS education but essential in practice.
+- NUS Security focus area is poorly taught — external certs like OSCP are a better path.
+
+> Last updated: 2026-07-02 | Beliefs: 6 strong, 0 medium, 0 weak | Last reinforced: 2026-06-28
+
+---
 
 ## Durable Beliefs
 

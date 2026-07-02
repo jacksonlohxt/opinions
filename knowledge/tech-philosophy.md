@@ -1,8 +1,16 @@
 # Technology & Product Philosophy
 
-*Durable beliefs and evolving views — extracted from my writing.*
-> Last updated: 2026-07-01
-> Source: Apple Notes
+**Current synthesis:**
+- Technology should adapt to how humans naturally think, not the other way around — remove the coding step, let humans use natural language.
+- AI separates the human (compassion, determination) from the machine (computation, pattern recognition) — each should do what it does best.
+- MOBA game strategy (Dota 2) is the dominant metaphor for thinking about teams, resources, and multi-agent AI — drafting formations, phase-aware playstyles, specialization.
+- Learning through depth beats speed — struggling with a problem embeds knowledge better than quick answers from ChatGPT or Google.
+- Great startups apply already-accepted societal behaviors to highly underserved domains.
+- Mindmaps are the optimal human interface for complexity — visual representation enables "stare and understand."
+
+> Last updated: 2026-07-02 | Beliefs: 8 strong, 2 medium, 1 weak | Last reinforced: 2026-07-01
+
+---
 
 ## Durable Beliefs
 
